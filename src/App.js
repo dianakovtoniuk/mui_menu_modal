@@ -1,9 +1,11 @@
-import Test from "./Test";
+import MenuDemo from "./MenuDemo";
+import ModalDemo from "./ModalDemo";
 
 function App() {
   return (
     <div>
-      <Test />
+      <MenuDemo />
+      <ModalDemo />
     </div>
   );
 }
